@@ -1,0 +1,356 @@
+{
+  "merchants": [
+    {
+      "type": "r",
+      "name": "el shabrawy",
+      "phone": "01000551",
+      "address": "bla/bla",
+      "imageURL": "www.",
+      "pricing": 5,
+      "actualCategories": [
+        "chicken",
+        "pizza",
+        "seafood"
+      ],
+      "categories": [
+        {
+          "name": "›—«Œ",
+          "description": "description 1",
+          "imageURL": "www.url.com",
+          "items": [
+            {
+              "name": "›—Œ…",
+              "basePrice": 20.0,
+              "imageURL": "www",
+              "description": "›—Œ… „‘ÊÌ…",
+              "options": [
+                {
+                  "name": "size",
+                  "required": true,
+                  "onlyOneChoice": true,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "large",
+                      "addedPrice": 20.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "medium",
+                      "addedPrice": 10.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "small",
+                      "addedPrice": 5.0,
+                      "description": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "»Ì“« ",
+          "description": "description 2",
+          "imageURL": "www.url.com",
+          "items": [
+            {
+              "name": "»Ì“«  Ê‰…",
+              "basePrice": 25.0,
+              "imageURL": "www",
+              "description": "»Ì“« »«· Ê‰…",
+              "options": [
+                {
+                  "name": "size",
+                  "required": true,
+                  "onlyOneChoice": true,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "large",
+                      "addedPrice": 20.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "medium",
+                      "addedPrice": 10.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "small",
+                      "addedPrice": 5.0,
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "additions",
+                  "required": false,
+                  "onlyOneChoice": false,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "ketchup",
+                      "addedPrice": 0.0,
+                      "description": "≈÷«›… ﬂ« ‘»"
+                    },
+                    {
+                      "name": "mayo",
+                      "addedPrice": 0.0,
+                      "description": "≈÷«›… „«ÌÊ‰Ì“"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "»Ì“« Ã»‰…",
+              "basePrice": 25.0,
+              "imageURL": "www",
+              "description": "»Ì“« „Êœ“—Ì·«",
+              "options": [
+                {
+                  "name": "size",
+                  "required": true,
+                  "onlyOneChoice": true,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "large",
+                      "addedPrice": 20.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "medium",
+                      "addedPrice": 10.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "small",
+                      "addedPrice": 5.0,
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "additions",
+                  "required": false,
+                  "onlyOneChoice": false,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "ketchup",
+                      "addedPrice": 0.0,
+                      "description": "≈÷«›… ﬂ« ‘»"
+                    },
+                    {
+                      "name": "mayo",
+                      "addedPrice": 0.0,
+                      "description": "≈÷«›… „«ÌÊ‰Ì“"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "”„ﬂ",
+          "description": "description 3",
+          "imageURL": "www.url.com",
+          "items": [
+            {
+              "name": "”„ﬂ »Ê—Ì",
+              "basePrice": 30.0,
+              "imageURL": "www",
+              "description": "ÊÃ»… ”„ﬂ »Ê—Ì",
+              "options": [
+                {
+                  "name": "size",
+                  "required": true,
+                  "onlyOneChoice": true,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "large",
+                      "addedPrice": 20.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "medium",
+                      "addedPrice": 10.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "small",
+                      "addedPrice": 5.0,
+                      "description": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "r",
+      "name": "arabatia",
+      "phone": "01000551",
+      "address": "bla/bla",
+      "imageURL": "www.",
+      "pricing": 5,
+      "actualCategories": [
+        "chicken"
+      ],
+      "categories": [
+        {
+          "name": "›—«Œ",
+          "description": "description 1",
+          "imageURL": "www.url.com",
+          "items": [
+            {
+              "name": "›—Œ…",
+              "basePrice": 20.0,
+              "imageURL": "www",
+              "description": "›—Œ… „‘ÊÌ…",
+              "options": [
+                {
+                  "name": "size",
+                  "required": true,
+                  "onlyOneChoice": true,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "large",
+                      "addedPrice": 20.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "medium",
+                      "addedPrice": 10.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "small",
+                      "addedPrice": 5.0,
+                      "description": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "»Ì“« ",
+          "description": "description 2",
+          "imageURL": "www.url.com",
+          "items": [
+            {
+              "name": "»Ì“«  Ê‰…",
+              "basePrice": 25.0,
+              "imageURL": "www",
+              "description": "»Ì“« »«· Ê‰…",
+              "options": [
+                {
+                  "name": "size",
+                  "required": true,
+                  "onlyOneChoice": true,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "large",
+                      "addedPrice": 20.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "medium",
+                      "addedPrice": 10.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "small",
+                      "addedPrice": 5.0,
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "additions",
+                  "required": false,
+                  "onlyOneChoice": false,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "ketchup",
+                      "addedPrice": 0.0,
+                      "description": "≈÷«›… ﬂ« ‘»"
+                    },
+                    {
+                      "name": "mayo",
+                      "addedPrice": 0.0,
+                      "description": "≈÷«›… „«ÌÊ‰Ì“"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "»Ì“« Ã»‰…",
+              "basePrice": 25.0,
+              "imageURL": "www",
+              "description": "»Ì“« „Êœ“—Ì·«",
+              "options": [
+                {
+                  "name": "size",
+                  "required": true,
+                  "onlyOneChoice": true,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "large",
+                      "addedPrice": 20.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "medium",
+                      "addedPrice": 10.0,
+                      "description": ""
+                    },
+                    {
+                      "name": "small",
+                      "addedPrice": 5.0,
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "additions",
+                  "required": false,
+                  "onlyOneChoice": false,
+                  "description": "desc",
+                  "choices": [
+                    {
+                      "name": "ketchup",
+                      "addedPrice": 0.0,
+                      "description": "≈÷«›… ﬂ« ‘»"
+                    },
+                    {
+                      "name": "mayo",
+                      "addedPrice": 0.0,
+                      "description": "≈÷«›… „«ÌÊ‰Ì“"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
